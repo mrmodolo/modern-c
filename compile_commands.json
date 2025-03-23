@@ -1,20 +1,3 @@
 [
-  {
-    "directory": "/srv/auriga/modolo/playground/modern-c/list-02",
-    "file": "getting-started.c",
-    "output": "/tmp/getting-started-700182.o",
-    "arguments": [
-      "/usr/bin/clang-19",
-      "-xc",
-      "getting-started.c",
-      "-o",
-      "/tmp/getting-started-700182.o",
-      "-std=c2x",
-      "-Wall",
-      "-lm",
-      "-dumpdir",
-      "build/getting-started-",
-      "--target=x86_64-pc-linux-gnu"
-    ]
-  }
+{ "directory": "/home/modolo/Playground/modern-c/list-02", "file": "getting-started.c", "output": "/tmp/getting-started-117ab3.o", "arguments": ["/usr/bin/clang-19", "-xc", "getting-started.c", "-o", "/tmp/getting-started-117ab3.o", "-std=c2x", "-Wall", "-lm", "-dumpdir", "build/getting-started-", "--target=x86_64-pc-linux-gnu"]}
 ]
